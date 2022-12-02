@@ -1,0 +1,5 @@
+Modelos de desarrollo de software:
+- modelo cascada
+- modelo cascada con feedback
+- modelo iterativo incremental
+- modelo ágil
