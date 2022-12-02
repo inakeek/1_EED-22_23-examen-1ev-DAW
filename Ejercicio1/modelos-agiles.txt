@@ -1,0 +1,4 @@
+Modelos ágiles
+
+- KANBAN
+- SCRUM
